@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Accenture Assignment</string>
+
+    <!-- Main Activity -->
+    <string name="main_username">Username</string>
+    <string name="main_password">Password</string>
+    <string name="main_login">Login</string>
+    <string name="main_error_title">Error!</string>
+    <string name="main_error_message">Login Failed. Please try again</string>
+    <string name="main_okay">Okay</string>
+</resources>
